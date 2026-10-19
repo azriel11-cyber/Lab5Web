@@ -3,8 +3,11 @@
 Repository ini dibuat untuk menyelesaikan tugas Praktikum 5 Pemrograman Web.  
   
 Nama : Fadhil Ridwan Azzril Rassyadi
+
 NIM : 312510185
-Kelas : I251B  
+
+Kelas : I251B
+
 Mata Kuliah : Pemrograman Web  
 
 
