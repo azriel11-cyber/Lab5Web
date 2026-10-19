@@ -24,8 +24,6 @@ Mata Kuliah : Pemrograman Web
 
 <img width="601" height="256" alt="Screenshot 2026-10-19 134600" src="https://github.com/user-attachments/assets/452c3055-047f-46f6-bbae-6415bcfb4132" />
 
-<img width="555" height="232" alt="Screenshot 2026-10-19 134614" src="https://github.com/user-attachments/assets/68a63f1d-070c-4d05-9918-c1958d668c2d" />
-
 <img width="606" height="207" alt="Screenshot 2026-10-19 134624" src="https://github.com/user-attachments/assets/31562b8b-6b1a-4247-99a0-82c6a8bbd1e9" />
 
 <img width="722" height="190" alt="Screenshot 2026-10-19 134745" src="https://github.com/user-attachments/assets/2b65f2cb-5ab2-4bb2-9e87-b304f15802f4" />
